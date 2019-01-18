@@ -26,7 +26,7 @@ Video Call App<br/>
 
 ------------------------------Solution--------------------------------------
 
-To resolve the problem we need grouping by API name. Sort in each group by API version and select all which version is not max:
+To resolve the problem we need grouping by API name and select all which version is not max:
 
 Mail App, Authentication API, v6<br/>
 Video Call App, Authentication API, v7<br/>
